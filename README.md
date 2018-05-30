@@ -1,4 +1,4 @@
-# Bay-Area-OWASP-May-2018
+# Bay Area OWASP May 2018
 OWASP Meetup - SF May 2018  - Web app security testing with browsers  
 ![Browsers](https://getmantra.com/web-app-security-testing-with-browsers/browsers.png)   
  
