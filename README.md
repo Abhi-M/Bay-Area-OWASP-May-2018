@@ -27,3 +27,4 @@ Photos
 ----
 Thanks to Shashank Nigam for the pictures
 ![Second photo](abhi-presenting-at-google-02.JPG) 
+![Second photo](abhi-presenting-at-google-03.JPG) 
